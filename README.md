@@ -6,4 +6,5 @@ Devise data driven soulution to combat climate change.
 The repository contains;
 A Jupyter notebook file displaying analysis performed with python,
 A Microsoft Power BI file containing an interative dashboard of forest carbon metrics,
-A Microsoft PowerPoint file presenting findings, insights and proposed solutions as an easily digestable data story.
+A Microsoft PowerPoint file presenting findings, insights and proposed solutions as an easily digestable data story,
+And the dataset on which analysis was performed.
